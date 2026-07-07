@@ -347,8 +347,6 @@ HTML_CONTENT = r"""<!DOCTYPE html>
       <circle cx="209" cy="66" r="3.6"/><circle cx="196" cy="88" r="3.6"/>
       <circle cx="170" cy="88" r="3.6"/><circle cx="157" cy="66" r="3.6"/>
       <path d="M209 66h24"/><circle cx="239" cy="66" r="3.6"/>
-      <!-- 방울 -->
-      <circle cx="150" cy="158" r="5"/><circle cx="178" cy="176" r="3.4"/>
     </svg>
     <h1>흩어진 원료 데이터시트를, <span class="hl">비교 가능한 한 장의 표</span>로.</h1>
     <p>여러 원료사의 TDS·MSDS PDF를 업로드하면 성분명·pH·점도·사용량·특징을 자동 추출해 정리합니다. 제형 연구원이 바로 비교하고 검토할 수 있습니다.</p>
